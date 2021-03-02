@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**popcornell/popcornell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there,  
 
-Here are some ideas to get you started:
+I'm a PhD student at Marche Polytechnic University (Italy), working on Audio Processing and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+
+
+[<img align="center" alt="Samuele Cornell | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="center" alt="Samuele Cornell | Twitter" height="40px" src="https://user-images.githubusercontent.com/18496796/107147301-8e8dfb80-694d-11eb-9fc6-f935c1754cd9.png"/>][twitter]
+[<img align="center" alt="Samuele Cornell | Twitter" height="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Feducation.usm.my%2Fimages%2FGoogle-Scholar-logo.png&f=1&nofb=1"/>][scholar]
+
+</div>
+
+----
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=popcornell&count_private=true&theme=great-gatsby&show_icons=true)
+
+</div>
+
+[linkedin]: https://www.linkedin.com/in/samuele-cornell-b06750178/
+[twitter]: https://twitter.com/notifications
+[scholar]: https://scholar.google.com/citations?user=A3lfL0QAAAAJ&hl=en****
