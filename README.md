@@ -20,5 +20,5 @@ I'm a PhD student at Marche Polytechnic University (Italy), working on Audio Pro
 </div>
 
 [linkedin]: https://www.linkedin.com/in/samuele-cornell-b06750178/
-[twitter]: https://twitter.com/notifications
+[twitter]: https://twitter.com/SamueleCornell
 [scholar]: https://scholar.google.com/citations?user=A3lfL0QAAAAJ&hl=en****
