@@ -15,7 +15,7 @@ I'm a PhD student at Marche Polytechnic University (Italy), working on Audio Pro
 
 ----
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=popcornell&count_private=true&theme=great-gatsby&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=popcornell&count_private=true&theme=solarized-light&show_icons=true)
 
 </div>
 
