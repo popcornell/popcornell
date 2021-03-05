@@ -13,6 +13,8 @@ I'm a PhD student at Marche Polytechnic University (Italy), working on Audio Pro
 
 </div>
 
+You can find a link to my résumé  [here](https://drive.google.com/file/d/1Kp3WzvPTcpMB9BpMK6ODSqcATsMx5i6N/view?usp=sharing).
+
 ----
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=popcornell&count_private=true&theme=default&show_icons=true)
