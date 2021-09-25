@@ -7,7 +7,7 @@ I'm a PhD student at Marche Polytechnic University (Italy), working on Audio Pro
 
 
 
-[<img align="center" alt="Samuele Cornell | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="center" alt="Samuele Cornell | LinkedIn" height="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
 [<img align="center" alt="Samuele Cornell | Twitter" height="40px" src="https://user-images.githubusercontent.com/18496796/107147301-8e8dfb80-694d-11eb-9fc6-f935c1754cd9.png"/>][twitter]
 [<img align="center" alt="Samuele Cornell | Twitter" height="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Feducation.usm.my%2Fimages%2FGoogle-Scholar-logo.png&f=1&nofb=1"/>][scholar]
 
