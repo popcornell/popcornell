@@ -1,7 +1,7 @@
 
 Hi there,  
 
-I'm a PhD student at Marche Polytechnic University (Italy), working on Audio Processing and Machine Learning.
+I'm a Post-Doc at CMU LTI, working on Audio Processing and Machine Learning.
 
 </p>
 
