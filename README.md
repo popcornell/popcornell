@@ -13,7 +13,7 @@ I'm a Post-Doc at CMU LTI, working on Audio Processing and Machine Learning.
 
 </div>
 
-You can find a link to my résumé  [here](https://drive.google.com/file/d/1Kp3WzvPTcpMB9BpMK6ODSqcATsMx5i6N/view?usp=sharing).
+You can find a link to my CV  [here](https://docs.google.com/document/d/1sgBrbewYg_vBxzPnX_PYNEboVQVFbMs0xvZqTULkhuU/edit?usp=sharing).
 
 ----
 
