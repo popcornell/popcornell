@@ -15,9 +15,6 @@ I'm a Post-Doc at CMU LTI, working on Audio Processing and Machine Learning.
 
 You can find a link to my CV  [here](https://docs.google.com/document/d/1sgBrbewYg_vBxzPnX_PYNEboVQVFbMs0xvZqTULkhuU/edit?usp=sharing).
 
-----
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=popcornell&count_private=true&theme=default&show_icons=true)
 
 </div>
 
