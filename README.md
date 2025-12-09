@@ -1,11 +1,9 @@
-
 Hi there,  
 
 I'm a Post-Doc at CMU LTI, working on Audio Processing and Machine Learning.
 
+You can find a link to my CV in my personal website [here](https://popcornell.github.io/).
 </p>
-
-
 
 [<img align="center" alt="Samuele Cornell | LinkedIn" height="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
 [<img align="center" alt="Samuele Cornell | Twitter" height="40px" src="https://user-images.githubusercontent.com/18496796/107147301-8e8dfb80-694d-11eb-9fc6-f935c1754cd9.png"/>][twitter]
@@ -13,7 +11,7 @@ I'm a Post-Doc at CMU LTI, working on Audio Processing and Machine Learning.
 
 </div>
 
-You can find a link to my CV  [here](https://docs.google.com/document/d/1sgBrbewYg_vBxzPnX_PYNEboVQVFbMs0xvZqTULkhuU/edit?usp=sharing).
+
 
 
 </div>
