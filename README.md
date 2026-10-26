@@ -1,21 +1,13 @@
-Hi there,  
+Hi there,
 
 I'm a Post-Doc at CMU LTI, working on Audio Processing and Machine Learning.
 
-You can find a link to my CV in my personal website [here](https://popcornell.github.io/).
-</p>
+You can find a link to my CV and more info about my recent and not so recent works in my personal website [here](https://popcornell.github.io/).
 
-[<img align="center" alt="Samuele Cornell | LinkedIn" height="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
-[<img align="center" alt="Samuele Cornell | Twitter" height="40px" src="https://user-images.githubusercontent.com/18496796/107147301-8e8dfb80-694d-11eb-9fc6-f935c1754cd9.png"/>][twitter]
-[<img align="center" alt="Samuele Cornell | Twitter" height="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Feducation.usm.my%2Fimages%2FGoogle-Scholar-logo.png&f=1&nofb=1"/>][scholar]
-
-</div>
-
-
-
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)][twitter]
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)][scholar]
 
 [linkedin]: https://www.linkedin.com/in/samuele-cornell-b06750178/
 [twitter]: https://twitter.com/SamueleCornell
-[scholar]: https://scholar.google.com/citations?user=A3lfL0QAAAAJ&hl=en****
+[scholar]: https://scholar.google.com/citations?user=A3lfL0QAAAAJ&hl=en
